@@ -1,6 +1,6 @@
 # Overview
 [demonstration video](https://youtu.be/BsMHQ_h1Q08)
-![State Machine](./writeup_resources/game_state_machine.pdf)
+![State Machine](game_state_machine.pdf)
 
 So our design project this time is to make a baccarat game machine using the deckofcards api to keep track of our cards and deck. 
 
